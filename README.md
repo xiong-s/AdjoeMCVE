@@ -39,11 +39,11 @@ This sample project was created following the steps below.
   - Configuration 
     - Scripting Backend = IL2CPP
     - Api Compatibility Level = .NET Framework
-- Target Architectures
-      - ARMv7 = true
-      - ARM64 = true
+  - Target Architectures
+    - ARMv7 = true
+    - ARM64 = true
 - Import [EDM4U](https://github.com/googlesamples/unity-jar-resolver) from OpenUPM
 - Import the .unitypackage from [Adjoe Setup Guide](https://docs.adjoe.io/rewarded-solutions/integration/playtime-sdk-for-android/get-started#step-3.-add-the-playtime-sdk-dependency)
 - Force Resolve in EDM
 
-Building this project and analyzing the binary (.apk) with Analyze APK in Android Studio 2025.1.1 will result in a warning for 16KB Page Sizes unsupported.
+Build this project and analyze the binary (.apk) with Analyze APK in Android Studio 2025.1.1, and a warning will appear.
