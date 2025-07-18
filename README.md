@@ -25,7 +25,7 @@ Adjoeの16KB Page Sizes未対応問題を再現できる最小限のサンプル
 
 ## English
 
-This is a minimal sample that can reproduce the issue of Adjoe's 16KB Page Sizes not being supported.
+This is a minimal sample that can reproduce the issue of Adjoe does not support 16KB Page Sizes.
 
 This sample project was created following the steps below.
 
